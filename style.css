@@ -1,0 +1,28 @@
+body {
+    width: 2800px;
+    background-color: rgb(167,153,153);
+}
+
+b {
+    color: yellow;
+}
+
+h1 {
+    font-variant: small-caps;
+}
+
+p, ul {
+    text-align: justify;
+}
+
+.container {
+    margin: 20px;
+}
+
+a:link, :visited {
+    color: white;
+}
+
+a:hover {
+    color: red;
+}
